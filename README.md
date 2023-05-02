@@ -3,6 +3,16 @@
 - 📫 How to reach me: jens_lindgren93@hotmail.com
 - 🌱 I’m currently learning: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Repositories to see my work.
+- Html and CSS 
+https://github.com/jensalindgren/pro1
+- JavaScript
+https://github.com/jensalindgren/todolist
+- Python
+https://github.com/jensalindgren/day-planner-t
+- Django 
+https://github.com/jensalindgren/blog
+
 ## My skills are!
 
 ### Languages 📋
