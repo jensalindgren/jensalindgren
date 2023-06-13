@@ -16,7 +16,7 @@ https://github.com/jensalindgren/blog
 - Django REST - API 
 https://github.com/jensalindgren/drf-api-backend
 - React
-https://gymhub-app.herokuapp.com/
+https://github.com/jensalindgren/gymhub-react
 
 ## My skills are!
 
