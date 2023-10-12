@@ -10,7 +10,7 @@
 - Html and CSS 
 https://github.com/jensalindgren/pro1
 - JavaScript
-https://github.com/jensalindgren/Weather-application
+https://github.com/jensalindgren/Weather-application -
 https://github.com/jensalindgren/todolist
 - Python
 https://github.com/jensalindgren/day-planner-t
