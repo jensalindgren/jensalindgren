@@ -22,6 +22,8 @@ https://github.com/jensalindgren/gymhub-react
 - Ecommerce site
 https://swedenathletes.com/
 
+## Inprogress - JavaScript
+https://github.com/jensalindgren/Weather-application
 
 ## My skills are!
 
@@ -72,8 +74,6 @@ https://swedenathletes.com/
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## Inprogress - JavaScript
-https://github.com/jensalindgren/Weather-application
 
 <!--
 **jensalindgren/jensalindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
