@@ -10,7 +10,6 @@
 - Html and CSS 
 https://github.com/jensalindgren/pro1
 - JavaScript
-https://github.com/jensalindgren/Weather-application -
 https://github.com/jensalindgren/todolist
 - Python
 https://github.com/jensalindgren/day-planner-t
@@ -72,6 +71,9 @@ https://swedenathletes.com/
 ### Other 🥅 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+## Inprogress - JavaScript
+https://github.com/jensalindgren/Weather-application
 
 <!--
 **jensalindgren/jensalindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
