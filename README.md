@@ -22,7 +22,7 @@ https://github.com/jensalindgren/gymhub-react
 - Ecommerce site
 https://swedenathletes.com/
 
-## Inprogress - JavaScript
+## In Progress - JavaScript
 https://github.com/jensalindgren/Weather-application
 
 ## My skills are!
