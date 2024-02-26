@@ -22,8 +22,8 @@ https://github.com/jensalindgren/gymhub-react
 - Ecommerce site
 https://swedenathletes.com/
 
-## In Progress - JavaScript
-https://github.com/jensalindgren/Weather-application
+## In Progress - PHP
+https://github.com/jensalindgren/Weather-app-PHP
 
 ## My skills are!
 
