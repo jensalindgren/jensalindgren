@@ -9,6 +9,8 @@
 ## Repositories/links to see my work.
 ⚡ - Job at Sweden Athletes
 https://swedenathletes.com/
+- 😄 Latest consultant work
+https://greennordicenergy.se/
 - Django REST - API 
 https://github.com/jensalindgren/drf-api-backend
 - React
@@ -23,8 +25,6 @@ https://github.com/jensalindgren/todolist
 https://github.com/jensalindgren/day-planner-t
 - PHP
 https://github.com/jensalindgren/Weather-app-PHP
-- 😄 Latest consultant work
-https://greennordicenergy.se/
 
 🔭 I’m currently working on a sparetime project.
 https://github.com/jensalindgren/freetime-api
