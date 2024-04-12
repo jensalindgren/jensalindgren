@@ -9,13 +9,12 @@
 ## Repositories to see my work.
 - Ecommerce site
 https://swedenathletes.com/
-- Django 
-https://github.com/jensalindgren/blog
 - Django REST - API 
 https://github.com/jensalindgren/drf-api-backend
 - React
 https://github.com/jensalindgren/gymhub-react
-
+- Django 
+https://github.com/jensalindgren/blog
 - Html and CSS 
 https://github.com/jensalindgren/pro1
 - JavaScript
