@@ -6,7 +6,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## Repositories to see my work.
+## Repositories/links to see my work.
 ⚡ - Job at Sweden Athletes
 https://swedenathletes.com/
 - Django REST - API 
