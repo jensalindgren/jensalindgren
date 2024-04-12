@@ -7,20 +7,21 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## Repositories to see my work.
-- Html and CSS 
-https://github.com/jensalindgren/pro1
-- JavaScript
-https://github.com/jensalindgren/todolist
-- Python
-https://github.com/jensalindgren/day-planner-t
+- Ecommerce site
+https://swedenathletes.com/
 - Django 
 https://github.com/jensalindgren/blog
 - Django REST - API 
 https://github.com/jensalindgren/drf-api-backend
 - React
 https://github.com/jensalindgren/gymhub-react
-- Ecommerce site
-https://swedenathletes.com/
+
+- Html and CSS 
+https://github.com/jensalindgren/pro1
+- JavaScript
+https://github.com/jensalindgren/todolist
+- Python
+https://github.com/jensalindgren/day-planner-t
 
 ## In Progress - PHP
 https://github.com/jensalindgren/Weather-app-PHP
