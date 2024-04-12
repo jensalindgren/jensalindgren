@@ -24,6 +24,9 @@ https://github.com/jensalindgren/day-planner-t
 - PHP
 https://github.com/jensalindgren/Weather-app-PHP
 
+🔭 I’m currently working on a API
+https://github.com/jensalindgren/freetime-api
+
 ## My skills are!
 
 ### Languages 📋
