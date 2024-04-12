@@ -78,7 +78,8 @@ https://github.com/jensalindgren/freetime-api
 
 ### ⚡ Fun fact
 ![Jensalindgrens's GitHub stats](https://github-readme-stats.vercel.app/api?username=jensalindgren&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensalindgren&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensalindgren&layout=compact&theme=dark)
+
 
 
 <!--
