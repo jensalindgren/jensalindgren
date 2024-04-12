@@ -23,7 +23,7 @@ https://github.com/jensalindgren/todolist
 https://github.com/jensalindgren/day-planner-t
 - PHP
 https://github.com/jensalindgren/Weather-app-PHP
-😄 - Latest consultant work
+- 😄 Latest consultant work
 https://greennordicenergy.se/
 
 🔭 I’m currently working on a sparetime project.
