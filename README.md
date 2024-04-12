@@ -21,8 +21,7 @@ https://github.com/jensalindgren/pro1
 https://github.com/jensalindgren/todolist
 - Python
 https://github.com/jensalindgren/day-planner-t
-
-## In Progress - PHP
+PHP
 https://github.com/jensalindgren/Weather-app-PHP
 
 ## My skills are!
