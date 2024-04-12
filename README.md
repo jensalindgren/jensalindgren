@@ -7,7 +7,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## Repositories to see my work.
-- Ecommerce site
+⚡ - Job at Sweden Athletes
 https://swedenathletes.com/
 - Django REST - API 
 https://github.com/jensalindgren/drf-api-backend
@@ -24,7 +24,7 @@ https://github.com/jensalindgren/day-planner-t
 - PHP
 https://github.com/jensalindgren/Weather-app-PHP
 
-🔭 I’m currently working on a API
+🔭 I’m currently working on a sparetime project.
 https://github.com/jensalindgren/freetime-api
 
 ## My skills are!
