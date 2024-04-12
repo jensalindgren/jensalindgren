@@ -71,7 +71,7 @@ https://github.com/jensalindgren/Weather-app-PHP
 ### Other 🥅 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- ⚡ Fun fact
+### ⚡ Fun fact
 ![Jensalindgrens's GitHub stats](https://github-readme-stats.vercel.app/api?username=jensalindgren&show_icons=true&theme=transparent)
 <!--
 **jensalindgren/jensalindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
